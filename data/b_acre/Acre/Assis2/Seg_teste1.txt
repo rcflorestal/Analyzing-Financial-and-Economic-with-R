@@ -1,0 +1,20 @@
+Crescimento de Regioes - Similaridade = 7 Area Minima = 15
+Planos de Entrada:
+Teste3
+Teste4
+Teste5
+23/Oct/98-16:03:20 (00:03:10) : Inicio - 4 Janelas - 178 s - 0
+23/Oct/98-16:03:21 (00:03:11) : InitWindow Janela=0 Celulas=16384 - 1 s - 0
+23/Oct/98-16:03:23 (00:03:13) : MergeMutual Celulas=4530 - 2 s - 0
+23/Oct/98-16:03:23 (00:03:13) : MergeSmall Celulas=409 - 0 s - 0
+23/Oct/98-16:03:24 (00:03:14) : InitWindow Janela=1 Celulas=15129 - 1 s - 0
+23/Oct/98-16:03:25 (00:03:15) : MergeMutual Celulas=5805 - 1 s - 0
+23/Oct/98-16:03:26 (00:03:16) : MergeSmall Celulas=865 - 1 s - 0
+23/Oct/98-16:03:26 (00:03:16) : InitWindow Janela=2 Celulas=8289 - 0 s - 0
+23/Oct/98-16:03:28 (00:03:18) : MergeMutual Celulas=2485 - 2 s - 0
+23/Oct/98-16:03:28 (00:03:18) : MergeSmall Celulas=717 - 0 s - 0
+23/Oct/98-16:03:28 (00:03:18) : InitWindow Janela=3 Celulas=7387 - 0 s - 0
+23/Oct/98-16:03:29 (00:03:19) : MergeMutual Celulas=3246 - 1 s - 0
+23/Oct/98-16:03:29 (00:03:19) : MergeSmall Celulas=943 - 0 s - 0
+23/Oct/98-16:03:30 (00:03:20) : MergeSmall Celulas=415 - 1 s - 0
+23/Oct/98-16:03:30 (00:03:20) : Resort - 415 Celulas - 0 s - 0
